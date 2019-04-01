@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "DRY: Partials With Locals"
-date:       2019-04-01 15:56:49 +0000
+date:       2019-04-01 11:56:50 -0400
 permalink:  dry_partials_with_locals
 ---
 
