@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "What's the Deal With The Big O"
-date:       2019-07-19 17:17:35 +0000
+title:      "What Is The Big O?"
+date:       2019-07-19 13:17:36 -0400
 permalink:  whats_the_deal_with_the_big_o
 ---
 
