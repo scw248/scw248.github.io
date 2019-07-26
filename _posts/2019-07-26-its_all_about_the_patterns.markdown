@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "It's All About the Patterns"
-date:       2019-07-26 19:20:52 +0000
+date:       2019-07-26 15:20:53 -0400
 permalink:  its_all_about_the_patterns
 ---
 
