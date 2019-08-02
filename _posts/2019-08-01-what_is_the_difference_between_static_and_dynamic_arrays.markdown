@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What is the Difference Between Static and Dynamic Arrays?"
-date:       2019-08-02 01:17:29 +0000
+date:       2019-08-01 21:17:30 -0400
 permalink:  what_is_the_difference_between_static_and_dynamic_arrays
 ---
 
