@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Don't Do It For the Money"
-date:       2019-08-16 16:34:01 +0000
+date:       2019-08-16 12:34:02 -0400
 permalink:  dont_do_it_for_the_money
 ---
 
